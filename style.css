@@ -1,0 +1,14 @@
+body {
+    margin: auto;
+}
+.bg {
+    background: rgb(0,4,36);
+    background: linear-gradient(0deg, rgba(0,4,36,1) 0%, rgba(9,9,121,1) 50%, rgba(240,0,255,1) 100%);
+    color: white;
+    height: 2000px;
+}
+.header {
+    background: rgb(0,4,36);
+    background: linear-gradient(0deg, rgba(0,4,36,1) 0%, rgba(9,9,121,1) 50%, rgba(240,0,255,1) 100%);
+    color: white;
+}
